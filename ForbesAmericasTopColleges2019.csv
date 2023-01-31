@@ -1,0 +1,651 @@
+Rank,Name,City,State,Public/Private,Undergraduate Population,Student Population,Net Price,Average Grant Aid,Total Annual Cost,Alumni Salary,Acceptance Rate,SAT Lower,SAT Upper,ACT Lower,ACT Upper,Website
+1,Harvard University,Cambridge,MA,Private,13844,31120,14327,49870,69600,146800,5,1460,1590,32,35,www.harvard.edu
+2,Stanford University,Stanford,CA,Private,8402,17534,13261,50134,69109,145200,5,1390,1540,32,35,www.stanford.edu
+3,Yale University,New Haven,CT,Private,6483,12974,18627,50897,71290,138300,7,1460,1580,32,35,www.yale.edu
+4,Massachusetts Institute of Technology,Cambridge,MA,Private,4680,11466,20771,43248,67430,155200,7,1490,1570,33,35,web.mit.edu
+5,Princeton University,Princeton,NJ,Private,5659,8273,9327,48088,66150,139400,6,1430,1570,31,35,www.princeton.edu
+6,University of Pennsylvania,Philadelphia,PA,Private,13437,25367,24242,44801,71715,133900,9,1420,1560,32,35,www.upenn.edu
+7,Brown University,Providence,RI,Private,7390,10095,30205,42455,71050,127600,8,1405,1570,31,35,www.brown.edu
+8,California Institute of Technology,Pasadena,CA,Private,1002,2238,24245,41408,68901,151600,8,1530,1590,34,35,www.caltech.edu
+9,Duke University,Durham,NC,Private,7184,16130,35737,47836,71764,132100,10,1380,1540,31,35,www.duke.edu
+10,Dartmouth College,Hanover,NH,Private,4693,6509,30421,47171,71827,130900,10,1430,1560,30,34,www.dartmouth.edu
+11,Cornell University,Ithaca,NY,Private,14774,23016,31230,36164,70321,128200,13,1390,1550,31,34,www.cornell.edu
+12,Pomona College,Claremont,CA,Private,1599,1665,15840,48930,69725,117200,8,1370,1530,30,34,www.pomona.edu
+13,"University of California, Berkeley",Berkeley,CA,Public,31133,41891,15859,18319,65003,131800,17,1260,1480,30,34,www.berkeley.edu
+14,Columbia University,New York,NY,Private,8523,30454,24231,49185,74199,126800,7,1410,1570,31,34,www.columbia.edu
+15,Georgetown University,Washington,DC,Private,8194,19005,30107,41893,71580,122200,16,1350,1520,30,34,www.georgetown.edu
+16,University of Chicago,Chicago,IL,Private,6915,16227,25455,37883,75735,114200,9,1480,1580,32,35,www.uchicago.edu
+17,Northwestern University,Evanston,IL,Private,10163,22008,24047,44247,72980,115400,9,1420,1560,32,34,www.northwestern.edu
+18,University of Notre Dame,Notre Dame,IN,Private,8664,12467,28768,39590,69395,130500,19,1370,1520,32,34,www.nd.edu
+19,Williams College,Williamstown,MA,Private,2134,2227,22667,48050,70650,127500,15,1400,1570,31,35,www.williams.edu
+20,"University of Michigan, Ann Arbor",Ann Arbor,MI,Public,29773,46002,14860,18751,62176,112200,27,1330,1500,30,33,www.umich.edu
+21,Rice University,Houston,TX,Private,4036,7022,20237,36387,63158,129500,16,1490,1580,33,35,www.rice.edu
+22,Johns Hopkins University,Baltimore,MD,Private,7825,25151,33586,38542,69863,117100,13,1450,1570,33,35,www.jhu.edu
+23,Harvey Mudd College,Claremont,CA,Private,847,861,34464,33782,74428,158200,15,1470,1570,33,35,www.hmc.edu
+24,United States Naval Academy,Annapolis,MD,Public,4495,4526,0,,0,152800,8,1150,1370,,,www.usna.edu
+25,Swarthmore College,Swarthmore,PA,Private,1577,1630,20511,46105,68846,123200,11,1380,1540,31,34,www.swarthmore.edu
+26,Bowdoin College,Brunswick,ME,Private,1816,1965,22810,41143,68070,112000,14,,,,,www.bowdoin.edu
+27,Vanderbilt University,Nashville,TN,Private,7006,12592,19959,41359,67392,119100,11,1440,1570,32,35,www.vanderbilt.edu
+28,Amherst College,Amherst,MA,Private,1836,1945,22463,49467,71300,116500,13,1400,1560,32,34,https://www.amherst.edu
+29,Claremont McKenna College,Claremont,CA,Private,1345,1364,26933,40673,71745,125400,10,1340,1510,30,34,www.claremontmckenna.edu
+30,University of Southern California,Los Angeles,CA,Private,20582,45687,30232,36686,72209,120600,16,1300,1500,30,34,www.usc.edu
+31,Washington University in St. Louis,St. Louis,MO,Private,8533,15303,28540,41977,71975,114900,16,1470,1570,32,34,www.wustl.edu
+32,United States Military Academy,West Point,NY,Public,4491,4568,0,,0,144000,10,1185,1400,23,28,www.usma.edu
+33,University of Virginia,Charlottesville,VA,Public,18432,24360,20547,21171,62633,117500,27,1310,1500,29,33,www.virginia.edu
+34,Tufts University,Medford,MA,Private,5960,11449,32620,38605,70600,118100,15,1410,1540,31,34,www.tufts.edu
+35,New York University,New York,NY,Private,30252,51123,40336,31542,71790,117700,28,1290,1490,29,33,www.nyu.edu
+36,Middlebury College,Middlebury,VT,Private,2591,3855,26075,43491,69464,109800,17,1320,1510,30,34,www.middlebury.edu
+37,Carnegie Mellon University,Pittsburgh,PA,Private,6941,13869,31102,38163,70094,136100,22,1430,1560,32,35,www.cmu.edu
+38,"University of California, Los Angeles",Los Angeles,CA,Public,33148,44027,14309,20011,61915,116100,16,1220,1450,29,34,ucla.edu
+39,Bates College,Lewiston,ME,Private,1787,1905,25192,43238,68870,111900,22,,,,,bates.edu
+40,Wesleyan University,Middletown,CT,Private,3123,3213,29956,43276,69935,117000,16,,,,,www.wesleyan.edu
+41,Boston College,Chestnut Hill,MA,Private,10304,14628,34550,40716,70588,115400,32,1320,1490,31,33,www.bc.edu
+42,Washington and Lee University,Lexington,VA,Private,1855,2220,24761,39671,65950,123200,22,1350,1490,31,33,www.wlu.edu
+43,United States Air Force Academy,Colorado Springs,CO,Public,4237,4276,0,,0,138100,12,1210,1390,28,32,www.usafa.af.mil
+44,Wellesley College,Wellesley,MA,Private,2508,2688,23188,45777,69034,106200,22,1360,1530,30,33,www.wellesley.edu
+45,"University of North Carolina, Chapel Hill",Chapel Hill,NC,Public,19429,29911,14163,17291,51152,100800,24,1270,1460,28,33,www.unc.edu
+46,Colgate University,Hamilton,NY,Private,2894,3025,23310,45108,69860,130600,28,1310,1500,31,33,www.colgate.edu
+47,College of William &amp; Mary,Williamsburg,VA,Public,6822,8740,19720,18738,59012,108900,36,1300,1480,29,33,www.wm.edu
+48,Davidson College,Davidson,NC,Private,1810,1959,21206,36359,66678,106900,20,1310,1470,30,33,www.davidson.edu
+49,Haverford College,Haverford,PA,Private,1296,1326,26607,45805,71614,112300,20,1390,1530,31,34,www.haverford.edu
+50,Barnard College,New York,NY,Private,2544,2668,25007,44776,71282,109800,15,1310,1500,30,33,barnard.edu
+51,Santa Clara University,Santa Clara,CA,Private,5754,8629,33738,26671,69439,134700,54,1270,1440,28,32,www.scu.edu
+52,Carleton College,Northfield,MN,Private,2078,2155,27898,38342,68835,109900,21,1360,1530,31,34,www.carleton.edu
+53,United States Coast Guard Academy,New London,CT,Public,896,1044,0,,0,118100,15,1180,1343,26,31,www.uscga.edu
+54,Pitzer College,Claremont,CA,Private,1074,1087,28423,41257,70500,96600,16,,,,,www.pitzer.edu
+55,Emory University,Atlanta,GA,Private,7859,14263,26760,38213,66950,110800,22,1350,1520,30,33,www.emory.edu
+56,Wake Forest University,Winston-Salem,NC,Private,5068,8116,33382,42495,69130,114800,28,,,,,www.wfu.edu
+57,Lafayette College,Easton,PA,Private,2569,2594,30820,39957,68640,122500,31,1260,1440,28,31,www.lafayette.edu
+58,Cooper Union,New York,NY,Private,921,946,14564,32452,65045,126200,13,1310,1530,28,34,cooper.edu
+59,Hamilton College,Clinton,NY,Private,1901,2043,24140,43611,67670,108100,24,1360,1510,31,33,www.hamilton.edu/index.cfm
+60,Scripps College,Claremont,CA,Private,1083,1092,30974,31633,71060,98600,33,1290,1460,29,33,www.scrippscollege.edu
+61,Vassar College,Poughkeepsie,NY,Private,2353,2572,23687,44517,70370,100100,24,1330,1500,30,33,www.vassar.edu
+62,Babson College,Babson Park,MA,Private,2354,3329,35540,36717,68432,133800,24,1230,1410,27,32,www.babson.edu
+63,"University of Maryland, College Park",College Park,MD,Public,32022,40521,18517,8955,49698,113400,45,1280,1470,29,33,www.umd.edu
+64,"University of Washington, Seattle",Seattle,WA,Public,38781,46166,12899,14051,51159,112300,46,1190,1420,27,32,uw.edu
+65,Georgia Institute of Technology,Atlanta,GA,Public,17223,29376,13291,12779,49366,133400,23,1090,1520,30,34,www.gatech.edu
+66,United States Merchant Marine Academy,Kings Point,NY,Public,912,975,6758,3597,8646,140700,22,1210,1280,26,28,www.usmma.edu
+67,Lehigh University,Bethlehem,PA,Private,5337,7017,34212,36014,65925,134100,25,1270,1430,29,32,www4.lehigh.edu/default.aspx
+68,"University of Illinois, Urbana-Champaign",Champaign,IL,Public,35476,48216,18377,13595,46202,115300,62,1340,1500,26,32,illinois.edu
+69,"University of Wisconsin, Madison",Madison,WI,Public,33863,42977,19880,6733,49885,104400,54,1280,1450,27,31,www.wisc.edu
+70,University of Florida,Gainesville,FL,Public,37851,52669,12345,6636,43409,102800,42,1240,1400,28,32,www.ufl.edu
+71,Kenyon College,Gambier,OH,Private,1677,1795,30504,34966,69180,103800,34,1263,1460,29,33,www.kenyon.edu/index.xml
+72,Villanova University,Villanova,PA,Private,7873,10967,41858,30163,68231,119500,36,1250,1440,30,33,www.villanova.edu
+73,Bucknell University,Lewisburg,PA,Private,3678,3740,40976,29783,70125,122900,31,1250,1420,28,31,www.bucknell.edu
+74,Boston University,Boston,MA,Private,22829,33355,37065,34156,70302,113600,25,1300,1480,29,32,www.bu.edu
+75,Colby College,Waterville,ME,Private,1917,2032,20739,45463,68582,103300,16,1340,1500,31,33,www.colby.edu
+76,"University of Texas, Austin",Austin,TX,Public,42827,51525,16960,10644,51786,112800,36,1220,1460,26,33,www.utexas.edu
+77,College of the Holy Cross,Worcester,MA,Private,2806,2855,34159,36963,66220,114600,40,,,,,www.holycross.edu
+78,George Washington University,Washington,DC,Private,12358,27973,31956,29429,69368,115300,41,1280,1440,29,32,www.gwu.edu
+79,"University of California, San Diego",San Diego,CA,Public,29613,35772,14630,18231,60177,123700,34,1210,1410,27,33,www.ucsd.edu
+80,Grinnell College,Grinnell,IA,Private,1712,1765,22844,33946,66214,96500,29,1310,1510,30,34,www.grinnell.edu
+81,Smith College,Northampton,MA,Private,2594,2918,24829,39913,69563,98200,32,,,,,www.smith.edu
+82,University of Rochester,Rochester,NY,Private,6905,11648,30480,30658,70108,112700,34,1300,1490,29,33,www.rochester.edu
+83,University of Richmond,Richmond,VA,Private,3815,4023,26264,38394,64890,107500,33,1270,1460,29,32,www.richmond.edu
+84,"University of California, Santa Barbara",Santa Barbara,CA,Public,22910,25057,15764,19558,64125,116300,33,1190,1400,28,33,www.ucsb.edu
+85,Oberlin College,Oberlin,OH,Private,2853,3030,31331,28876,71330,96800,34,1280,1450,28,33,www.oberlin.edu
+86,Macalester College,St. Paul,MN,Private,2136,2249,26865,33335,66280,100400,41,1300,1480,29,32,www.macalester.edu
+87,"University of California, Irvine",Irvine,CA,Public,28947,35242,13376,18824,61872,116000,37,1170,1350,25,32,www.uci.edu
+88,"University of California, Davis",Davis,CA,Public,31437,37380,15737,18690,63743,112600,43,1130,1360,25,32,www.ucdavis.edu
+89,Whitman College,Walla Walla,WA,Private,1510,1574,43488,23828,64504,102600,52,1140,1380,28,32,www.whitman.edu
+90,University of Miami (FL),Coral Gables,FL,Private,12002,17003,29184,20647,66274,99600,36,1230,1420,28,32,www.miami.edu
+91,Southern Methodist University,Dallas,TX,Private,6917,11789,32190,33203,72408,110400,49,1270,1440,28,32,www.smu.edu
+92,Colorado College,Colorado Springs,CO,Private,2118,2450,34032,36872,68616,97900,15,,,,,www.coloradocollege.edu
+93,Worcester Polytechnic Institute,Worcester,MA,Private,4654,6642,40376,19515,65046,135500,48,,,,,www.wpi.edu
+94,Colorado School of Mines,Golden,CO,Public,4811,6209,25710,10725,52698,139600,56,1310,1450,28,32,www.mines.edu
+95,Brigham Young University,Provo,UT,Private,34334,35807,12974,4843,18370,108000,52,1210,1410,27,32,www.byu.edu
+96,Brandeis University,Waltham,MA,Private,3869,5721,31138,35487,70943,113200,34,1280,1470,29,33,www.brandeis.edu
+97,Yeshiva University,New York,NY,Private,2884,6330,36306,26972,60525,112800,63,1160,1420,23,29,www.yu.edu
+98,"University of Minnesota, Twin Cities",Minneapolis,MN,Public,45796,51848,17396,8760,39655,104000,50,1270,1480,26,31,www.umn.edu
+99,University of Georgia,Athens,GA,Public,30690,37606,14625,10076,44978,100700,54,1200,1370,26,31,www.uga.edu
+100,Case Western Reserve University,Cleveland,OH,Private,5292,11824,35316,28295,65384,117800,33,1340,1520,30,33,www.case.edu
+101,Skidmore College,Saratoga Springs,NY,Private,2684,2835,27410,41746,69450,99700,25,1205,1400,27,31,www.skidmore.edu
+102,Occidental College,Los Angeles,CA,Private,1972,2123,29211,35704,71756,105700,42,1280,1440,27,32,www.oxy.edu
+103,"Texas A&amp;M University, College Station",College Station,TX,Public,53515,67929,20282,8748,53848,115700,71,1140,1360,25,30,www.tamu.edu
+104,Union College (NY),Schenectady,NY,Private,2214,2267,32720,29135,68610,117500,37,,,,,www.union.edu
+105,Reed College,Portland,OR,Private,1470,1490,31815,35130,69820,104900,36,1310,1500,30,33,www.reed.edu
+106,Tulane University,New Orleans,LA,Private,8873,12384,34240,33035,69764,105300,21,1330,1490,30,33,www.tulane.edu
+107,Bentley University,Waltham,MA,Private,4352,5543,35671,26565,66180,116600,44,1210,1380,27,31,www.bentley.edu
+108,Virginia Tech,Blacksburg,VA,Public,26634,34440,20343,8261,44024,114000,70,1180,1360,25,30,vt.edu
+109,Trinity College (CT),Hartford,CT,Private,2282,2401,31808,40346,71470,110900,34,1260,1420,28,32,www.trincoll.edu/Pages/default.aspx
+110,Rose-Hulman Institute of Technology,Terre Haute,IN,Private,2245,2254,36906,20967,65031,135800,61,1260,1450,27,32,www.rose-hulman.edu
+111,Bryn Mawr College,Bryn Mawr,PA,Private,1442,1640,25672,37710,68410,95300,38,1310,1500,29,33,www.brynmawr.edu
+112,Rhode Island School of Design,Providence,RI,Private,2030,2440,46277,26169,67620,100600,32,1130,1370,25,31,www.risd.edu
+113,Rensselaer Polytechnic Institute,Troy,NY,Private,6371,7592,34839,30596,70132,134100,43,1320,1500,28,32,www.rpi.edu
+114,Franklin and Marshall College,Lancaster,PA,Private,2283,2440,27531,43377,70430,109700,34,,,,,fandm.edu
+115,"California Polytechnic State University, San Luis Obispo",San Luis Obispo,CA,Public,21098,22370,19979,5891,39033,119500,35,1200,1380,26,31,calpoly.edu
+116,St. Olaf College,Northfield,MN,Private,3035,3137,24250,28573,58330,101900,43,1150,1400,25,31,wp.stolaf.edu
+117,Pennsylvania State University,State College,PA,Public,43709,47119,30373,10060,51572,105500,50,1160,1340,25,30,www.psu.edu
+118,Purdue University,West Lafayette,IN,Public,32534,42699,13746,10703,41614,110000,57,1150,1380,25,31,www.purdue.edu
+119,The Juilliard School,New York,NY,Private,590,927,32829,29417,62600,97400,6,,,,,
+120,Dickinson College,Carlisle,PA,Private,2382,2422,28464,34171,69071,100100,49,,,,,www.dickinson.edu
+121,Ohio State University,Columbus,OH,Public,49185,59837,17726,9730,46141,98600,48,1260,1450,27,31,www.osu.edu
+122,Wheaton College (IL),Wheaton,IL,Private,2544,2900,28005,16173,47696,99700,85,1230,1410,27,32,www.wheaton.edu
+123,Rutgers University,New Brunswick,NJ,Public,40523,49577,20379,13896,47518,111000,58,1190,1400,,,www.rutgers.edu
+124,Loyola Marymount University,Los Angeles,CA,Private,6591,9618,40676,19787,64735,113300,52,1180,1360,26,31,www.lmu.edu
+125,University of Portland,Portland,OR,Private,3967,4396,35329,23282,59236,104900,70,1140,1320,23,29,www.up.edu
+126,American University,Washington,DC,Private,8606,13858,36567,29412,64234,102900,29,1180,1350,26,30,www.american.edu
+127,Furman University,Greenville,SC,Private,2863,2949,27508,30434,63706,98800,61,1190,1380,26,31,www2.furman.edu/Pages/default.aspx
+128,Connecticut College,New London,CT,Private,1817,1928,30244,39603,69440,100800,38,,,,,www.conncoll.edu
+129,Pepperdine University,Malibu,CA,Private,3803,7710,33814,31980,70862,103900,40,1200,1390,26,31,www.pepperdine.edu
+130,University of Connecticut,Storrs,CT,Public,20662,27578,20681,13630,53112,105200,48,1210,1390,26,31,uconn.edu
+131,"Indiana University, Bloomington",Bloomington,IN,Public,41317,43710,14351,11647,48739,97100,76,1140,1350,25,31,www.indiana.edu
+132,DePauw University,Greencastle,IN,Private,2158,2253,22323,31570,62567,101000,67,1110,1330,24,29,www.depauw.edu
+133,Elon University,Elon,NC,Private,6214,6791,34459,14061,49642,93700,67,1140,1330,25,29,www.elon.edu
+134,Clemson University,Clemson,SC,Public,19506,24387,17696,10296,50516,106700,47,1220,1390,27,31,www.clemson.edu
+135,Fairfield University,Fairfield,CT,Private,4511,5192,36929,24180,64325,116900,61,,,,,www.fairfield.edu
+136,James Madison University,Harrisonburg,VA,Public,21167,21836,20204,8556,42522,102600,75,1100,1260,23,28,www.jmu.edu
+137,Mount Holyoke College,South Hadley,MA,Private,2334,2393,26239,31370,63900,92100,51,1270,1463,29,33,https://www.mtholyoke.edu
+138,Gettysburg College,Gettysburg,PA,Private,2411,2615,27597,29795,66710,109300,46,,,,,www.gettysburg.edu
+139,"North Carolina State University, Raleigh",Raleigh,NC,Public,26961,34432,15024,10998,42048,106500,51,1230,1390,26,31,www.ncsu.edu
+140,University of Denver,Denver,CO,Private,6080,11434,32174,26702,65376,105100,58,1160,1350,25,30,www.du.edu
+141,Fordham University,Bronx,NY,Private,10137,16037,35694,27530,72239,112500,46,1230,1410,27,31,www.fordham.edu
+142,University of San Diego,San Diego,CA,Private,6177,8905,34752,24364,65426,109400,50,1180,1350,26,30,www.sandiego.edu
+143,Trinity University (TX),San Antonio,TX,Private,2406,2571,23144,26174,56880,102900,38,1230,1410,27,32,web.trinity.edu
+144,University of Pittsburgh,Pittsburgh,PA,Public,20822,28642,28331,12484,44812,100400,60,1240,1418,27,32,www.pitt.edu
+145,"Binghamton University, SUNY",Binghamton,NY,Public,14736,17351,18378,8062,40980,109600,40,1290,1431,28,31,www.binghamton.edu
+146,"University of Colorado, Boulder",Boulder,CO,Public,30976,35338,20706,9787,54312,109900,80,1150,1340,25,30,www.colorado.edu
+147,University of Delaware,Newark,DE,Public,20550,23774,16892,8798,47782,105400,63,1130,1330,25,29,www.udel.edu
+148,Texas Christian University,Fort Worth,TX,Private,9258,10489,35429,24864,62970,98700,41,1130,1330,25,30,www.tcu.edu
+149,College of New Jersey,Ewing,NJ,Public,7212,7552,26670,9936,45897,101800,48,1170,1330,,,tcnj.edu
+150,Rhodes College,Memphis,TN,Private,2010,2102,25629,30234,61538,97800,51,1220,1410,27,32,www.rhodes.edu
+151,Florida State University,Tallahassee,FL,Public,36787,41362,14582,6628,34904,92700,49,1190,1330,26,30,www.fsu.edu
+152,Stevens Institute of Technology,Hoboken,NJ,Private,3144,6916,36620,25762,67204,139900,44,1320,1470,29,33,www.stevens.edu/sit
+153,Denison University,Granville,OH,Private,2290,2341,24808,30783,64970,104800,37,1200,1380,28,31,denison.edu
+154,Sewanee—University of the South,Sewanee,TN,Private,1778,1835,27544,23449,60950,97800,47,,,,,www.sewanee.edu
+155,"University of Massachusetts, Amherst",Amherst,MA,Public,26735,30340,20926,8867,48135,103000,58,1180,1360,26,31,www.umass.edu
+156,Syracuse University,Syracuse,NY,Private,22484,28199,34173,27878,65480,104800,47,1160,1350,25,30,syracuse.edu
+157,Sarah Lawrence College,Bronxville,NY,Private,1470,1696,33358,28916,70266,96100,53,1240,1410,27,31,www.slc.edu
+158,St. Lawrence University,Canton,NY,Private,2468,2493,27691,31866,68296,104000,48,1205,1365,26,30,www.stlawu.edu
+159,Michigan State University,East Lansing,MI,Public,42252,50019,18576,10911,53424,100800,72,1100,1320,23,28,www.msu.edu
+160,University of Iowa,Iowa City,IA,Public,27051,32166,15103,8045,44251,99400,86,1140,1370,23,28,www.uiowa.edu
+161,Saint Louis University,St. Louis,MO,Private,14373,14581,27341,23580,57214,95300,64,1170,1390,25,31,www.slu.edu
+162,Seattle University,Seattle,WA,Private,5250,7278,35021,22438,59607,113700,74,1130,1330,24,29,www.seattleu.edu/default.aspx
+163,Manhattan School of Music,New York,NY,Private,451,1007,47116,24906,66200,,43,,,,,
+164,Kalamazoo College,Kalamazoo,MI,Private,1436,1469,23579,29059,59267,94500,73,1180,1380,26,30,www.kzoo.edu
+165,University of Dayton,Dayton,OH,Private,8660,10882,32721,21293,57680,105000,72,1100,1310,24,29,www.udayton.edu
+166,Auburn University,Auburn,AL,Public,23846,29776,23416,9030,49954,104500,84,1130,1310,24,30,www.auburn.edu
+167,Saint Joseph's University (PA),Philadelphia,PA,Private,5705,8085,33480,23892,60854,105100,77,1110,1290,23,28,www.sju.edu
+168,University of Vermont,Burlington,VT,Public,12945,13340,18877,16347,56890,99400,67,1180,1350,25,30,www.uvm.edu
+169,Samford University,Birmingham,AL,Private,3446,5509,29032,14879,46474,90500,83,1080,1280,23,29,www.samford.edu
+170,Gonzaga University,Spokane,WA,Private,5333,7506,32623,21169,57350,107600,65,1180,1350,26,30,www.gonzaga.edu
+171,Wofford College,Spartanburg,SC,Private,1678,1737,24722,28158,57749,96600,69,1120,1310,29,30,www.wofford.edu
+172,Providence College,Providence,RI,Private,4484,4646,38823,26359,64984,106900,52,1160,1330,26,30,www.providence.edu/Pages/default.aspx
+173,University of Puget Sound,Tacoma,WA,Private,2545,2701,37074,21534,63510,101300,84,,,,,www.pugetsound.edu
+174,"CUNY, Baruch College",New York,NY,Public,18289,18775,2695,8944,39172,107100,29,1190,1350,,,www.baruch.cuny.edu
+175,Loyola University Maryland,Baltimore,MD,Private,4175,5783,36350,26091,64520,111200,75,,,,,www.loyola.edu
+176,"SUNY, Stony Brook (Stony Brook University)",Stony Brook,NY,Public,19871,25989,13770,9968,42981,107800,42,1210,1410,26,31,www.stonybrook.edu
+177,George Mason University,Fairfax,VA,Public,32249,35984,19779,8567,51672,105700,81,1100,1290,24,30,www.gmu.edu
+178,Chapman University,Orange,CA,Private,6756,9392,39228,26378,69464,99400,57,1190,1360,25,30,www.chapman.edu
+179,Muhlenberg College,Allentown,PA,Private,2367,2535,31014,25282,65330,101900,48,1140,1340,25,30,www.muhlenberg.edu
+180,Marquette University,Milwaukee,WI,Private,8486,11426,29120,20717,55273,105900,89,1130,1310,24,29,www.marquette.edu
+181,San Diego State University,San Diego,CA,Public,31609,35158,14030,7549,40104,102800,35,1090,1290,23,28,www.sdsu.edu
+182,Northeastern University,Boston,MA,Private,18760,21489,29748,34691,68177,109700,27,1370,1520,32,34,www.northeastern.edu
+183,"University of California, Santa Cruz",Santa Cruz,CA,Public,17925,19457,17877,18050,64054,104700,51,1160,1340,26,31,www.ucsc.edu
+184,Lewis &amp; Clark College,Portland,OR,Private,2174,3339,34838,25539,62086,93200,71,1210,1390,27,31,www.lclark.edu
+185,Miami University (OH),Oxford,OH,Public,18239,19700,21288,11894,51064,107300,68,1190,1380,26,31,miamioh.edu
+186,"Arizona State University, Tempe",Tempe,AZ,Public,46038,51164,11163,12081,44110,100900,84,1120,1350,22,29,www.asu.edu
+187,University of Utah,Salt Lake City,UT,Public,28686,32800,13728,7990,42916,102600,66,1110,1350,22,29,www.utah.edu
+188,"University of Oklahoma, Norman",Norman,OK,Public,24255,28527,19254,9372,43764,100600,74,1150,1380,23,29,www.ou.edu
+189,Marist College,Poughkeepsie,NY,Private,6236,6657,35290,15637,54880,101000,43,,,,,www.marist.edu
+190,Hobart and William Smith Colleges,Geneva,NY,Private,2244,2295,35172,25110,69775,108500,64,1150,1330,25,30,www.hws.edu
+191,University of Oregon,Eugene,OR,Public,22400,22887,15693,8662,49542,95800,83,1080,1270,22,28,www.uoregon.edu
+192,Drake University,Des Moines,IA,Private,3606,4904,27578,21239,54020,99900,69,1100,1350,24,30,www.drake.edu
+193,Lawrence University,Appleton,WI,Private,1467,1545,25117,28643,58458,98800,61,1220,1460,25,32,www.lawrence.edu
+194,Creighton University,Omaha,NE,Private,4626,8654,30427,20293,53452,95800,72,1070,1290,25,30,www.creighton.edu
+195,Hillsdale College,Hillsdale,MI,Private,1520,1556,,18540,40552,,41,1280,1440,28,32,www.hillsdale.edu
+196,University at Buffalo (SUNY),Buffalo,NY,Public,23075,30648,17469,8198,43398,98000,57,1080,1260,24,28,www.buffalo.edu
+197,University of Tulsa,Tulsa,OK,Private,3630,4433,23948,31812,59435,107200,39,1150,1440,25,32,www.utulsa.edu
+198,University of Saint Thomas (MN),St. Paul,MN,Private,6424,9878,30503,21274,54647,106400,84,1090,1330,24,29,www.stthomas.edu
+199,"University of California, Riverside",Riverside,CA,Public,21017,23279,12344,21249,62677,106900,57,1090,1300,23,29,ucr.edu
+200,Manhattan College,Riverdale,NY,Private,3727,4242,30243,18177,60212,125700,75,1050,1243,23,28,www.manhattan.edu
+201,University of South Carolina,Columbia,SC,Public,26791,34731,19519,5792,47162,89900,72,1170,1330,25,30,www.sc.edu
+202,Baylor University,Waco,TX,Private,14951,17059,34898,21350,60233,101400,39,1190,1360,26,31,www.baylor.edu
+203,Bryant University,Smithfield,RI,Private,3503,3751,37730,20675,59904,108600,73,,,,,www.bryant.edu
+204,University of Mary Washington,Fredericksburg,VA,Public,4800,4808,21227,5562,42716,98200,73,1080,1260,22,27,www.umw.edu
+205,Virginia Military Institute,Lexington,VA,Public,1722,1766,19905,14434,56288,120600,53,1100,1280,23,28,www.vmi.edu
+206,Clark University (MA),Worcester,MA,Private,2476,3153,27004,24329,55010,101400,56,,,,,www.clarku.edu
+207,Clarkson University,Potsdam,NY,Private,3335,4233,30563,32540,66106,130100,66,1143,1330,24,29,www.clarkson.edu
+208,Illinois Institute of Technology,Chicago,IL,Private,3227,7164,22098,34485,63749,118500,54,1230,1410,25,31,www.iit.edu
+209,Centre College,Danville,KY,Private,1443,1450,23237,26184,53910,88500,76,1170,1410,26,31,www.centre.edu
+210,University of San Francisco,San Francisco,CA,Private,7495,11063,32210,27943,65980,109900,66,1100,1290,22,28,www.usfca.edu
+211,Iowa State University,Ames,IA,Public,32814,36158,14331,7882,34442,101300,89,1160,1410,22,28,www.iastate.edu
+212,Louisiana State University,Baton Rouge,LA,Public,27658,30861,18181,9304,46381,102900,74,1060,1290,23,28,www.lsu.edu
+213,Willamette University,Salem,OR,Private,2181,2498,28327,27489,62262,97700,89,,,,,www.willamette.edu
+214,Gustavus Adolphus College,St. Peter,MN,Private,2181,2263,20050,24333,55800,96800,68,,,,,https://gustavus.edu
+215,Quinnipiac University,Hamden,CT,Private,7704,10200,38695,22460,63770,97700,74,1080,1260,23,27,www.quinnipiac.edu
+216,Butler University,Indianapolis,IN,Private,4311,5145,36413,16348,56740,99300,65,1150,1320,25,30,www.butler.edu
+217,"SUNY, College of Environmental Science and Forestry",Syracuse,NY,Public,1825,2213,17923,7628,36953,97000,52,1150,1300,24,28,www.esf.edu
+218,University of Arizona,Tucson,AZ,Public,36862,43751,14744,11272,51707,101000,84,,,,,www.arizona.edu
+219,"University of Missouri, Columbia",Columbia,MO,Public,27923,30844,18602,9316,43330,98600,78,1120,1350,23,29,www.missouri.edu
+220,The Citadel,Charleston,SC,Public,3043,3717,17935,11281,50506,108100,81,1020,1220,20,25,www.citadel.edu/root
+221,University of Washington Bothell,Bothell,WA,Public,5981,6175,9822,12946,51348,108000,80,1030,1230,19,26,https://www.uwb.edu
+222,Emerson College,Boston,MA,Private,4088,4459,43965,20323,65324,94300,46,1200,1360,26,30,www.emerson.edu
+223,"Colorado State University, Fort Collins",Fort Collins,CO,Public,28404,33083,17058,8221,43437,96100,83,1100,1300,22,28,www.colostate.edu
+224,"University of Tennessee, Knoxville",Knoxville,TN,Public,23803,28321,19335,8903,49350,95100,77,1140,1310,24,30,www.utk.edu
+225,Taylor University,Upland,IN,Private,2145,2831,24525,17726,45330,90600,87,1045,1290,22,29,www.taylor.edu
+226,Drexel University,Philadelphia ,PA,Private,17789,24190,37427,28767,68792,114800,79,1160,1360,24,30,www.drexel.edu
+227,Stonehill College,Easton,MA,Private,2498,2536,32911,22865,59560,103200,72,,,,,www.stonehill.edu
+228,University of South Florida,Tampa,FL,Public,37076,43540,11700,7937,32324,91300,45,1150,1310,24,29,www.usf.edu
+229,St. Mary's College of Maryland,St. Mary's City,MD,Public,1598,1746,21025,8414,45130,95400,82,1070,1290,22,28,www.smcm.edu
+230,Bard College,Annandale-on-Hudson,NY,Private,2101,2293,26766,39096,70562,90600,58,,,,,www.bard.edu
+231,Washington State University,Pullman,WA,Public,27917,30614,16314,8572,41675,103700,73,1020,1220,20,26,www.wsu.edu
+232,Truman State University,Kirksville,MO,Public,6272,6289,12537,8778,27878,85800,67,1185,1420,24,30,www.truman.edu
+233,Illinois Wesleyan University,Bloomington,IL,Private,1649,1791,26976,26421,58830,96000,61,1195,1395,24,29,www.iwu.edu
+234,"St. John's College, Annapolis",Annapolis,MD,Private,445,513,26808,33723,65409,,54,1280,1450,26,32,stjohnscollege.edu
+235,"SUNY, Geneseo",Geneseo,NY,Public,5652,5792,18879,6708,34740,93300,72,1120,1300,24,29,geneseo.edu
+236,Westmont College,Santa Barbara,CA,Private,1300,1356,31039,26711,60930,102400,85,1130,1380,23,30,www.westmont.edu
+237,Cedarville University,Cedarville,OH,Private,3666,3886,21490,14155,39194,87300,71,1130,1350,23,29,www.cedarville.edu
+238,University of the Pacific (CA),Stockton,CA,Private,3639,6255,29171,26884,64796,109300,65,1070,1330,22,30,www.pacific.edu
+239,"University of Nebraska, Lincoln",Lincoln,NE,Public,22012,26079,17784,8538,40182,96700,64,1100,1380,22,29,www.unl.edu
+240,"University of Texas, Dallas",Richardson,TX,Public,18764,27642,14763,14321,45488,100900,76,1220,1430,26,32,www.utdallas.edu
+241,Rollins College,Winter Park,FL,Private,2894,3278,30194,30057,67775,87000,64,,,,,www.rollins.edu
+242,University of Central Florida,Orlando,FL,Public,65100,66059,15286,5757,38353,88600,50,1150,1320,24,29,www.ucf.edu
+243,Ithaca College,Ithaca,NY,Private,6488,6516,33848,25073,61339,98600,71,,,,,www.ithaca.edu
+244,DePaul University,Chicago,IL,Private,17838,22769,30502,20387,56275,102900,72,,,,,www.depaul.edu/Pages/default.aspx
+245,Missouri University of Science and Technology,Rolla,MO,Public,7192,8883,14473,8975,38684,122600,84,1100,1340,25,31,www.mst.edu
+246,University of New Hampshire,Durham,NH,Public,13688,15363,24529,12539,47570,100300,77,1070,1260,23,28,www.unh.edu
+247,Hope College,Holland,MI,Private,3150,3281,26175,15907,45410,90900,74,1090,1320,24,29,hope.edu
+248,Loyola University Chicago,Chicago,IL,Private,12864,16673,33036,22016,59958,96000,71,1120,1310,24,29,www.luc.edu
+249,Seton Hall University,South Orange,NJ,Private,6260,9801,27563,24710,57090,103800,73,1140,1280,24,28,www.shu.edu
+250,College of Wooster,Wooster,OH,Private,1980,2122,25442,30851,61900,91300,56,1150,1380,24,30,wooster.edu
+251,University of Scranton,Scranton,PA,Private,3893,5373,35298,22094,61096,99700,75,1080,1280,23,28,www.scranton.edu
+252,University of Alabama,Tuscaloosa,AL,Public,35625,38563,21973,16494,46744,97400,53,1050,1280,23,32,www.ua.edu
+253,College of Saint Benedict,St. Joseph,MN,Private,1937,2022,25020,28210,56880,88600,81,1010,1220,22,28,www.csbsju.edu
+254,Saint John's University (MN),Collegeville,MN,Private,1815,1816,23977,27780,55872,108400,80,970,1190,22,27,www.csbsju.edu/About/Saint-Johns-University.htm
+255,California Lutheran University,Thousand Oaks,CA,Private,3207,4236,25871,27282,59877,95000,73,1060,1230,21,27,www.callutheran.edu
+256,"Embry-Riddle Aeronautical University, Prescott",Prescott,AZ,Private,2543,2663,32898,15756,51036,117900,77,1130,1350,23,29,www.prescott.erau.edu
+257,Beloit College,Beloit,WI,Private,1402,1509,13972,30344,59442,85700,54,,,,,www.beloit.edu
+258,Western Washington University,Bellingham,WA,Public,15915,16246,16220,6500,38067,99300,85,1080,1280,22,28,www.wwu.edu
+259,Rockhurst University,Kansas City,MO,Private,2176,3043,22901,26031,51631,92500,72,1050,1230,22,27,www.rockhurst.edu
+260,University of Kansas,Lawrence,KS,Public,20894,27625,18814,9205,41074,98600,93,,,23,28,www.ku.edu
+261,Oregon State University,Corvallis,OR,Public,29777,30896,20493,8263,44706,104800,79,1070,1300,22,28,oregonstate.edu
+262,"University of Maryland, Baltimore County",Baltimore,MD,Public,12702,13662,20539,9402,41674,103600,60,1140,1360,24,29,https://www.umbc.edu
+263,Point Loma Nazarene University,San Diego,CA,Private,3313,4417,31452,16687,49844,90100,76,1100,1290,23,28,https://www.pointloma.edu
+264,Wheaton College (MA),Norton,MA,Private,1688,1695,27875,31592,65818,97500,48,1150,1350,26,30,wheatoncollege.edu
+265,New School,New York,NY,Private,8911,10389,40819,19358,69475,101700,62,1100,1310,24,28,www.newschool.edu
+266,Calvin University,Grand Rapids,MI,Private,3840,4232,25596,18532,46790,91100,83,1100,1330,23,30,https://www.calvin.edu
+267,Christopher Newport University,Newport News,VA,Public,5001,5081,22351,5737,41876,87200,72,,,,,cnu.edu
+268,New Jersey Institute of Technology,Newark,NJ,Public,9366,11446,19409,13782,51518,121300,61,1190,1370,24,30,www.njit.edu
+269,Juniata College,Huntingdon,PA,Private,1495,1638,24795,29639,58165,93100,71,,,,,www.juniata.edu
+270,College of the Ozarks,Point Lookout,MO,Private,1508,1773,8352,15362,29539,71100,13,1088,1235,21,26,www.cofo.edu
+271,University of Arkansas,Fayetteville,AR,Public,24344,27558,16069,6629,40162,98000,66,1110,1280,23,29,www.uark.edu
+272,"California State University, Long Beach",Long Beach,CA,Public,34415,37622,9423,8454,35946,101700,28,1020,1230,20,26,www.csulb.edu
+273,"California State Polytechnic University, Pomona",Pomona,CA,Public,24747,26053,13068,7957,37937,110800,55,1010,1230,20,27,www.csupomona.edu
+274,"CUNY, Queens College",Queens,NY,Public,19866,20379,3318,9104,35692,96700,43,1060,1220,,,www.qc.cuny.edu/Pages/home.aspx
+275,University of Redlands,Redlands,CA,Private,3556,4898,29520,30419,67024,102400,75,1070,1250,23,28,www.redlands.edu
+276,Michigan Technological University,Houghton,MI,Public,6148,7292,15481,11959,46344,116300,74,1160,1340,25,30,www.mtu.edu
+277,New College of Florida,Sarasota,FL,Public,859,885,10248,9341,43678,86500,69,1190,1380,25,30,www.ncf.edu
+278,University of Dallas,Irving,TX,Private,1505,2510,23663,25952,54876,96400,47,1140,1370,24,31,www.udallas.edu
+279,"University of Illinois, Chicago",Chicago,IL,Public,19476,30539,13866,13415,43518,103800,77,1080,1330,20,26,www.uic.edu/uic
+280,Wabash College,Crawfordsville,IN,Private,848,864,21870,28547,54600,114400,63,1070,1280,23,28,www.wabash.edu
+281,Washington College,Chestertown,MD,Private,1484,1520,28943,26844,61010,93500,48,,,,,www.washcoll.edu
+282,Saint Michael's College,Colchester,VT,Private,2077,2126,30142,23373,57560,98500,85,,,,,www.smcvt.edu
+283,The Catholic University of America,Washington,DC,Private,3323,6023,32731,24577,62482,105100,83,,,,,www.cua.edu
+284,Massachusetts Maritime Academy,Buzzards Bay,MA,Public,1780,1811,18027,10571,43085,117500,83,1040,1200,21,25,https://www.maritime.edu
+285,Siena College,Loudonville,NY,Private,3226,3288,27588,24332,53855,101500,78,,,,,www.siena.edu/pages/1.asp
+286,Bennington College,Bennington,VT,Private,782,851,29815,35753,70760,90000,57,,,,,www.bennington.edu/Home.aspx
+287,John Carroll University,University Heights,OH,Private,3273,3545,25017,25797,55820,97300,85,1000,1140,22,27,sites.jcu.edu
+288,Saint Mary's College (IN),Notre Dame,IN,Private,1637,1690,23244,25970,55200,89300,78,1030,1250,23,29,https://www.saintmarys.edu
+289,Seattle Pacific University,Seattle,WA,Private,3359,3783,30299,23350,56485,103400,91,1060,1280,21,27,www.spu.edu
+290,"University at Albany, SUNY",Albany,NY,Public,14939,17743,18093,9096,40562,101700,54,1080,1260,22,26,www.albany.edu
+291,Messiah College,Mechanicsburg,PA,Private,2866,3331,27200,18110,47930,93100,77,1100,1310,22,29,www.messiah.edu
+292,Hofstra University,Hempstead,NY,Private,7438,11131,32240,24541,61260,110400,64,1130,1310,24,29,hofstra.edu
+293,Biola University,La Mirada,CA,Private,4256,6172,31492,18028,54516,92500,72,1063,1298,21,28,www.biola.edu
+294,Duquesne University,Pittsburgh,PA,Private,6467,9190,28961,19545,52108,96100,72,1120,1270,24,29,www.duq.edu
+295,San Jose State University,San Jose,CA,Public,27394,35835,14627,8545,40046,114700,67,1000,1210,19,26,www.sjsu.edu
+296,Ursinus College,Collegeville,PA,Private,1507,1576,29219,32962,66242,101800,78,1110,1310,24,30,www.ursinus.edu
+297,Saint Mary's College of California,Moraga,CA,Private,3018,3913,33570,29572,65524,110800,82,1060,1240,22,27,www.stmarys-ca.edu
+298,Regis University,Denver,CO,Private,5127,8341,23672,21367,51202,94800,60,1070,1266,20,26,www.regis.edu
+299,Temple University,Philadelphia,PA,Public,31739,39967,23366,10739,44190,95900,57,,,,,www.temple.edu
+300,"California State University, Fullerton",Fullerton,CA,Public,38279,40905,8737,8436,39222,98400,46,1020,1180,19,24,www.fullerton.edu
+301,"CUNY, Hunter College",New York,NY,Public,20626,23005,3170,8039,29454,94500,40,1120,1290,,,www.hunter.cuny.edu/main
+302,Ohio Northern University,Ada,OH,Private,2310,3088,23100,20796,46118,103900,66,1130,1310,22,28,www.onu.edu
+303,Maryland Institute College of Art,Baltimore,MD,Private,2041,2128,38763,18939,62850,84500,62,1060,1290,24,29,
+304,Bradley University,Peoria,IL,Private,4669,5844,24814,19250,46680,104900,71,1080,1290,22,28,www.bradley.edu
+305,Appalachian State University,Boone,NC,Public,17811,18811,13691,8312,33819,82700,70,1100,1270,23,27,www.appstate.edu
+306,University of Houston,Houston,TX,Public,40813,45364,16392,9530,37306,103900,61,1110,1280,23,27,www.uh.edu
+307,Transylvania University,Lexington,KY,Private,966,983,25405,21960,50550,85600,95,,,,,https://www.transy.edu
+308,University of Kentucky,Lexington,KY,Public,23718,29465,18527,9387,45634,96400,96,1080,1330,22,28,www.uky.edu
+309,California State University Maritime Academy,Vallejo,CA,Public,1090,1181,16416,7716,39962,129600,66,,,,,https://www.csum.edu/web/mycampus/home;jsessionid=788be41b906ebd9485432c0ba641d830
+310,Presbyterian College,Clinton,SC,Private,1135,1280,18504,31372,51910,89900,65,1020,1250,21,27,www.presby.edu
+311,Texas Tech University,Lubbock,TX,Public,32154,36996,17134,6632,33425,106500,69,1070,1240,22,27,www.texastech.edu
+312,"Embry-Riddle Aeronautical University, Daytona Beach",Daytona Beach,FL,Private,5777,6338,33120,15100,51828,111200,75,1080,1310,22,28,daytonabeach.erau.edu
+313,University of Cincinnati,Cincinnati,OH,Public,28857,37155,22828,7045,44490,97300,76,1120,1340,23,28,www.uc.edu
+314,Hampden-Sydney College,Hampden-Sydney,VA,Private,1046,1054,31337,26751,60360,108600,55,1050,1265,21,27,www.hsc.edu
+315,Southwestern University,Georgetown,TX,Private,1396,1536,24993,25506,54330,93500,43,1110,1320,23,29,www.southwestern.edu
+316,Whitworth University,Spokane,WA,Private,2342,2627,28229,26020,57824,88800,89,1090,1310,23,29,www.whitworth.edu
+317,Franciscan University of Steubenville,Steubenville,OH,Private,2230,2929,23699,10971,37790,86200,83,1080,1300,23,28,www.franciscan.edu
+318,Belmont University,Nashville,TN,Private,6636,8012,34819,13488,50740,80900,81,1140,1310,24,29,www.belmont.edu
+319,Saint Anselm College,Manchester,NH,Private,1964,1995,31268,23338,56846,100300,76,1140,1300,24,28,www.anselm.edu
+320,Towson University,Towson,MD,Public,21615,22705,17893,8815,38754,91200,77,1055,1210,21,25,www.towson.edu
+321,University of Evansville,Evansville,IN,Private,2516,2537,20517,26391,50868,89900,70,1020,1255,22,29,www.evansville.edu
+322,Earlham College,Richmond,IN,Private,1072,1128,19454,36987,58670,88400,52,1190,1400,25,30,earlham.edu
+323,College of Charleston,Charleston,SC,Public,10863,11322,19311,9018,48057,85100,80,1070,1230,22,27,www.cofc.edu
+324,Dordt University,Sioux Center,IA,Private,1533,1579,23792,16673,43800,89600,72,1050,1320,22,28,www.dordt.edu
+325,Xavier University,Cincinnati,OH,Private,4893,6786,30019,20690,52380,94000,74,1060,1240,22,28,www.xavier.edu
+326,Milwaukee School of Engineering,Milwaukee,WI,Private,2779,2823,21328,25716,52046,117600,63,1153,1360,25,30,www.msoe.edu/home
+327,Pacific Lutheran University,Tacoma,WA,Private,2942,3122,24034,26984,54800,98100,75,1040,1270,21,27,www.plu.edu
+328,Pratt Institute,Brooklyn,NY,Private,4050,5035,43969,20362,65308,102300,57,1040,1290,24,29,https://www.pratt.edu
+329,Kettering University,Flint,MI,Private,2129,2311,37247,18564,59227,125000,70,1190,1350,24,29,https://www.kettering.edu
+330,St. Joseph's College (NY),Brooklyn,NY,Private,1085,1176,16973,14686,39050,86900,68,868,1060,18,22,www.sjcny.edu
+331,Knox College,Galesburg,IL,Private,1356,1376,22998,29331,56554,95400,72,,,,,www.knox.edu
+332,Master's University,Santa Clarita,CA,Private,1551,1946,26292,18498,47766,86600,66,1030,1240,20,23,www.masters.edu
+333,SUNY Maritime College,Throggs Neck,NY,Public,1778,1794,18413,7134,34958,140700,69,1100,1253,22,26,www.sunymaritime.edu
+334,"University of Wisconsin, La Crosse",La Crosse,WI,Public,10480,10548,14424,2975,26055,88300,73,,,22,26,www.uwlax.edu
+335,"California State University, Chico",Chico,CA,Public,17732,17875,14703,8615,36300,105100,68,990,1170,19,25,www.csuchico.edu
+336,"University of North Carolina, Wilmington",Wilmington,NC,Public,16060,16487,18093,5471,38678,80500,67,1185,1310,23,27,uncw.edu
+337,Rochester Institute of Technology,Rochester,NY,Private,15217,16584,30187,21055,54714,106600,57,1190,1380,26,32,www.rit.edu
+338,Wagner College,Staten Island,NY,Private,1858,2271,30106,26903,62203,105900,70,,,,,wagner.edu
+339,Hendrix College,Conway,AR,Private,1249,1354,20695,35974,60096,90300,80,1100,1410,24,31,www.hendrix.edu
+340,Illinois State University,Normal,IL,Public,20115,20784,21345,9124,40036,95000,89,,,21,26,www.illinoisstate.edu
+341,Ramapo College of New Jersey,Mahwah,NJ,Public,6120,6466,21316,11907,39973,95200,57,1050,1230,21,26,https://www.ramapo.edu
+342,Westminster College (UT),Salt Lake City,UT,Private,2422,2570,21109,20070,47784,92200,93,1060,1267,21,28,https://www.westminstercollege.edu
+343,Mills College,Oakland,CA,Private,869,1310,24558,35560,63767,91200,87,,,,,www.mills.edu
+344,Luther College,Decorah,IA,Private,2053,2214,25273,26533,54045,85900,65,1023,1305,23,28,www.luther.edu
+345,Virginia Commonwealth University,Richmond,VA,Public,26355,30675,21655,9187,51204,88200,84,1070,1260,21,27,www.vcu.edu
+346,St. Norbert College,De Pere,WI,Private,2162,2165,24930,20123,48110,88700,79,1110,1230,22,27,www.snc.edu
+347,University of Wyoming,Laramie,WY,Public,10874,12397,13070,7422,31387,98800,97,1040,1290,22,27,www.uwyo.edu
+348,Austin College,Sherman,TX,Private,1228,1288,21011,29820,53784,93100,52,1160,1360,23,29,www.austincollege.edu
+349,"University of Nevada, Reno",Reno,NV,Public,20196,21657,14505,5672,38398,95000,88,1070,1260,21,26,www.unr.edu
+350,Simmons College,Boston,MA,Private,1825,6283,28308,26660,58230,94300,60,1130,1310,24,29,www.simmons.edu
+351,Allegheny College,Meadville,PA,Private,1802,1957,22927,33282,61120,93500,68,1140,1320,23,29,allegheny.edu
+352,Bethel University,Saint Paul,MN,Private,3006,3797,27151,19821,50350,85700,83,1030,1360,21,27,www.bethel.edu
+353,Adelphi University,Garden City,NY,Private,5768,7978,28322,20425,56358,96400,73,1060,1240,22,27,www.adelphi.edu
+354,"SUNY, College at New Paltz",New Paltz,NY,Public,7565,7709,16192,8061,34080,85200,44,1100,1260,23,28,www.newpaltz.edu
+355,Wentworth Institute of Technology,Boston,MA,Private,4457,4543,36690,13455,54071,112700,92,1080,1270,22,28,https://wit.edu
+356,Drew University,Madison,NJ,Private,1678,2117,26218,35351,66486,95000,63,,,,,www.drew.edu
+357,Gordon College,Wenham,MA,Private,1784,1963,28240,17558,49940,91300,89,1050,1290,22,29,www.gordon.edu
+358,Oklahoma State University,Stillwater,OK,Public,23241,25295,14824,9874,38686,98600,74,1070,1260,22,28,okstate.edu
+359,Millsaps College,Jackson,MS,Private,859,871,22292,29468,55322,88700,49,1110,1320,22,28,www.millsaps.edu
+360,Georgia College &amp; State University,Milledgeville,GA,Public,6804,6952,19686,7252,46834,80300,79,1100,1260,23,27,www.gcsu.edu
+361,Rowan University,Glassboro,NJ,Public,16047,18484,23692,9357,39526,91200,69,1050,1260,22,28,www.rowan.edu
+362,"CUNY, Brooklyn College",Brooklyn,NY,Public,17679,17803,4211,9250,34942,97800,40,1050,1210,,,www.brooklyn.cuny.edu
+363,John Brown University,Siloam Springs,AR,Private,2230,2613,22583,15476,38834,82700,76,1080,1310,24,29,www.jbu.edu
+364,Florida International University,Miami,FL,Public,55835,56718,12503,6471,36086,90100,54,1080,1240,22,27,www.fiu.edu
+365,Salisbury University,Salisbury,MD,Public,8714,8721,18792,5527,34102,89800,65,,,,,www.salisbury.edu
+366,Kansas State University,Manhattan,KS,Public,21022,22795,17926,6435,39696,97200,94,,,,,www.k-state.edu
+367,Concordia College—Moorhead,Moorhead,MN,Private,2059,2140,23393,23456,49488,85200,62,1055,1305,22,28,www.concordiacollege.edu
+368,"University of Wisconsin, Eau Claire",Eau Claire,WI,Public,10904,10944,16188,3449,27990,93600,76,,,21,26,www.uwec.edu
+369,North Dakota State University,Fargo,ND,Public,12915,14358,15265,4666,33478,98600,92,1060,1328,21,26,www.ndsu.edu
+370,Sacred Heart University,Fairfield,CT,Private,5937,8543,39973,15472,58440,100500,60,,,,,https://www.sacredheart.edu
+371,Hanover College,Hanover,IN,Private,1089,1103,21898,26000,50450,85100,84,1070,1260,22,27,www.hanover.edu
+372,Florida Institute of Technology,Melbourne,FL,Private,3943,6402,31592,23760,59650,105400,63,1130,1320,24,29,www.fit.edu
+373,Hampshire College,Amherst,MA,Private,1268,1382,29416,30632,67114,92300,63,,,,,www.hampshire.edu
+374,Saint John Fisher College,Rochester,NY,Private,2976,3776,27022,17631,47770,86700,65,1060,1230,22,26,www.sjfc.edu
+375,"University of Minnesota, Morris",Morris,MN,Public,1627,1912,11051,11572,25942,85300,64,1150,1390,22,28,www.morris.umn.edu
+376,Roger Williams University,Bristol,RI,Private,5024,5472,35100,13685,52700,92700,82,,,,,rwu.edu
+377,La Salle University,Philadelphia,PA,Private,3896,5197,25937,27431,45476,104800,79,,,,,www.lasalle.edu
+378,Lebanon Valley College,Annville,PA,Private,1784,1910,27137,26230,57390,93100,73,1063,1250,22,26,www.lvc.edu
+379,Assumption College,Worcester,MA,Private,2318,2481,28285,20777,54594,95700,79,,,,,https://www.assumption.edu
+380,Merrimack College,North Andover,MA,Private,3786,4191,32442,20113,57865,102500,82,,,,,www.merrimack.edu/index.php
+381,Grove City College,Grove City,PA,Private,2373,2383,,6843,28504,98400,80,1071,1249,23,32,www.gcc.edu
+382,University of St. Thomas (TX),Houston,TX,Private,1979,3168,17309,23263,46506,92000,81,1070,1235,21,27,https://www.stthom.edu/home/index.aqf
+383,Le Moyne College,Syracuse,NY,Private,3148,3431,23130,22291,49995,91700,64,1080,1240,22,27,www.lemoyne.edu
+384,St. Edward's University,Austin,TX,Private,4300,4447,22968,28957,58700,89100,84,1080,1250,22,28,www.stedwards.edu/contactus
+385,"University of Hawaii, Manoa",Honolulu,HI,Public,15299,17612,15307,7227,51550,91600,83,1050,1240,21,26,manoa.hawaii.edu
+386,Augustana College,Rock Island,IL,Private,2591,2647,24745,27532,53422,88900,59,,,,,augustana.edu
+387,Covenant College,Lookout Mountain,GA,Private,1017,1068,22202,21187,45920,79400,95,1130,1350,24,30,www.covenant.edu
+388,Howard University,Washington,DC,Private,6156,9392,23424,20427,43201,101300,41,1090,1290,22,28,www.howard.edu
+389,Union University (TN),Jackson,TN,Private,2853,3377,22839,24075,51790,83000,60,1070,1320,23,29,www.uu.edu
+390,Iona College,New Rochelle,NY,Private,3649,3792,26717,23110,55864,106200,92,980,1180,20,25,www.iona.edu
+391,Lipscomb University,Nashville,TN,Private,3705,4642,24279,18955,47734,84800,60,1060,1330,23,29,https://www.lipscomb.edu
+392,Carroll College,Helena,MT,Private,1362,1415,26297,20475,48538,91400,78,1080,1270,22,28,www.carroll.edu
+393,Berry College,Mount Berry,GA,Private,2110,2138,24165,21883,50632,84900,62,1120,1300,24,29,www.berry.edu
+394,Elizabethtown College,Elizabethtown,PA,Private,1735,1766,28222,27431,58490,89700,74,1070,1280,22,27,www.etown.edu
+395,College of St. Scholastica,Duluth,MN,Private,3143,4276,23935,23314,49104,86800,68,1020,1300,19,27,css.edu
+396,Augustana University,Sioux Falls,SD,Private,1743,2080,18446,21816,45458,88400,68,1070,1290,23,29,www.augie.edu
+397,Louisiana Tech University,Ruston,LA,Public,12708,12839,10774,10650,29277,100700,65,870,1100,22,27,www.latech.edu
+398,George Fox University,Newberg,OR,Private,2821,4076,28366,17754,48902,89600,82,1050,1270,21,27,www.georgefox.edu
+399,University of North Dakota,Grand Forks,ND,Public,13957,14406,15056,4640,33017,96000,83,1050,1270,21,26,und.edu
+400,Pace University,New York,NY,Private,10063,12986,29588,28509,64982,107800,80,1040,1220,21,27,www.pace.edu
+401,University of Mississippi,University,MS,Public,20940,23136,13929,9642,40086,89100,84,1070,1290,22,29,www.olemiss.edu
+402,California Institute of the Arts,Santa Clarita,CA,Private,991,1498,46101,15401,68993,91000,24,,,,,
+403,Linfield College,McMinnville,OR,Private,1535,1692,27254,25864,56712,92000,81,1020,1210,20,26,www.linfield.edu
+404,Berklee College of Music,Boston,MA,Private,6762,6952,47270,19811,63574,84200,53,,,,,
+405,University of Northern Iowa,Cedar Falls,IA,Public,11334,11861,16496,4677,31872,85300,81,1080,1360,21,26,www.uni.edu
+406,New Mexico Institute of Mining and Technology,Socorro,NM,Public,1707,2009,13694,6883,35153,120400,22,1190,1390,23,29,www.nmt.edu
+407,St. John's University (NY),Queens,NY,Private,17861,21340,25747,25628,59865,106600,68,1060,1250,22,29,www.stjohns.edu/contact.stj
+408,University of Massachusetts Lowell,Lowell,MA,Public,16407,18315,19322,9817,46983,109300,69,1130,1310,24,29,www.uml.edu
+409,South Dakota School of Mines and Technology,Rapid City,SD,Public,2778,2885,19759,4230,28770,118500,83,1150,1353,24,29,https://www.sdsmt.edu
+410,Goucher College,Baltimore,MD,Private,1508,2236,25306,29040,59810,90600,79,,,,,www.goucher.edu
+411,"CUNY, The City College of New York",New York,NY,Public,15842,16001,2540,9669,36674,99100,46,1040,1240,,,www.ccny.cuny.edu
+412,Nebraska Wesleyan University,Lincoln,NE,Private,2064,3703,23652,18976,46544,80500,71,1040,1300,22,28,www.nebrwesleyan.edu
+413,Brigham Young University-Idaho,Rexburg,ID,Private,51881,69458,7977,4070,12322,93500,95,990,1180,20,25,www.byui.edu
+414,Valparaiso University,Valparaiso,IN,Private,3531,4026,21946,26441,52980,98000,84,1060,1270,23,29,www.valpo.edu
+415,Lake Forest College,Lake Forest,IL,Private,1542,1640,24628,31022,58675,102600,53,,,,,www.lakeforest.edu
+416,Azusa Pacific University,Azusa,CA,Private,6263,9926,27267,21186,52396,85700,60,990,1220,21,27,www.apu.edu
+417,"California State University, Fresno",Fresno,CA,Public,23020,25325,5872,10267,32311,97300,59,910,1110,16,22,www.fresnostate.edu
+418,West Chester University of Pennsylvania,West Chester,PA,Public,15851,17306,22193,5743,38253,92200,69,1040,1210,21,26,www.wcupa.edu
+419,Goshen College,Goshen,IN,Private,921,950,19251,23958,46500,79200,64,980,1233,19,28,www.goshen.edu
+420,Agnes Scott College,Decatur,GA,Private,921,981,20356,29066,54065,83600,66,,,,,www.agnesscott.edu
+421,Maryville University of Saint Louis,St. Louis,MO,Private,3486,7689,23891,12346,46076,80100,92,983,1265,21,27,www.maryville.edu
+422,Montclair State University,Montclair,NJ,Public,18785,21013,18500,9983,38435,95400,71,990,1150,,,www.montclair.edu
+423,Oregon Institute of Technology,Klamath Falls,OR,Public,5486,7358,17041,5674,42093,106800,61,1040,1230,21,26,www.oit.edu
+424,Albion College,Albion,MI,Private,1476,1568,17863,34181,56750,99300,71,1010,1200,20,26,www.albion.edu
+425,University of North Florida,Jacksonville,FL,Public,16309,16531,13795,7267,35614,86600,59,1090,1280,21,26,www.unf.edu
+426,San Francisco State University,San Francisco,CA,Public,29485,29758,13787,8470,38599,99500,70,950,1150,18,24,www.sfsu.edu
+427,Montana State University,Bozeman,MT,Public,15848,16613,17754,5661,38121,96200,83,1090,1300,21,28,www.montana.edu
+428,High Point University,High Point,NC,Private,4608,4951,38741,10331,51105,84300,81,1050,1240,21,27,www.highpoint.edu
+429,Whittier College,Whittier,CA,Private,1660,1987,25322,28841,61409,95600,74,1010,1220,21,27,www.whittier.edu
+430,Eckerd College,St. Petersburg,FL,Private,2037,2200,32718,23182,59200,88400,73,1060,1260,23,29,www.eckerd.edu
+431,University of Louisville,Louisville,KY,Public,18009,21402,16721,9589,41472,87600,75,1070,1290,22,28,louisville.edu
+432,Mississippi State University,Starkville,MS,Public,19554,21883,16192,10003,38410,94100,62,,,21,28,www.msstate.edu
+433,University of Tampa,Tampa,FL,Private,8101,8895,29735,12304,43708,91500,53,1070,1230,22,27,www.ut.edu
+434,"California State University, Stanislaus",Turlock,CA,Public,9299,10327,6295,8875,32434,94200,77,,,,,www.csustan.edu
+435,University of Idaho,Moscow,ID,Public,11344,12072,14354,6993,37624,97700,73,1010,1230,20,26,www.uidaho.edu
+436,Cornell College (IA),Mount Vernon,IA,Private,1006,1009,24355,26957,55954,90600,65,1100,1340,23,29,www.cornellcollege.edu/index.shtml
+437,Washington &amp; Jefferson College,Washington,PA,Private,1412,1424,27925,29017,60134,92100,48,,,,,www.washjeff.edu
+438,Ohio University,Athens,OH,Public,26467,29369,20853,6291,36706,93300,74,1080,1260,22,26,www.ohio.edu
+439,Stetson University,DeLand,FL,Private,3213,4252,26883,30974,61374,86000,68,,,,,www.stetson.edu/home
+440,Moravian College,Bethlehem,PA,Private,2195,2446,26838,25900,57868,95300,76,1010,1210,21,27,www.moravian.edu
+441,Abilene Christian University,Abilene,TX,Private,3806,5145,26037,18599,48300,90900,58,1025,1220,21,26,www.acu.edu
+442,"University of Minnesota, Duluth",Duluth,MN,Public,10490,11168,17131,7100,29542,95700,77,1050,1280,22,26,www.d.umn.edu
+443,Stockton University,Galloway,NJ,Public,9105,9216,20364,12270,37234,85800,82,1010,1200,19,25,www.stockton.edu
+444,University of Rhode Island,Kingston,RI,Public,16255,18089,19431,10834,45735,99700,70,1050,1230,22,27,www.uri.edu
+445,Utah State University,Logan,UT,Public,27679,29784,13279,8145,33264,93900,89,1000,1220,21,27,www.usu.edu
+446,Saint Mary's University of Minnesota,Winona,MN,Private,1883,5754,20210,21359,45300,93700,64,960,1210,20,25,www.smumn.edu
+447,McDaniel College,Westminster,MD,Private,1646,2819,20333,30807,55830,94600,85,1060,1230,21,28,https://www.mcdaniel.edu
+448,North Central College,Naperville,IL,Private,2883,2965,23265,23128,51228,92900,54,1063,1323,22,27,northcentralcollege.edu/home
+449,Bellarmine University,Louisville,KY,Private,2903,3757,24433,28601,59306,90700,89,1050,1210,22,27,www.bellarmine.edu
+450,"SUNY, College at Oneonta",Oneonta,NY,Public,6150,6358,17513,7634,33812,88000,60,1040,1190,21,25,www.oneonta.edu/home/default.asp
+451,"SUNY, Farmingdale State College",Farmingdale,NY,Public,9574,12307,9443,7438,33818,93800,59,980,1140,19,23,www.farmingdale.edu
+452,University of New England,Biddeford,ME,Private,8281,8798,33183,19228,54260,91500,81,1030,1210,21,26,www.une.edu
+453,Susquehanna University,Selinsgrove,PA,Private,2351,2370,25492,30386,59780,94700,70,,,,,www.susqu.edu
+454,West Virginia University,Morgantown,WV,Public,24183,28406,11825,8964,37712,99900,72,1020,1210,21,27,www.wvu.edu
+455,University of La Verne,La Verne,CA,Private,6653,8159,25429,24969,59826,90500,48,1020,1193,19,25,laverne.edu
+456,"University of Alabama, Birmingham",Birmingham,AL,Public,13308,20902,17535,9254,36800,87200,92,990,1370,21,28,www.uab.edu
+457,Sonoma State University,Rohnert Park,CA,Public,9244,9481,17296,7277,37914,97100,82,980,1170,19,24,www.sonoma.edu
+458,Canisius College,Buffalo,NY,Private,2861,3464,20913,26244,52172,90000,78,1040,1260,22,28,www.canisius.edu
+459,Houghton College,Houghton,NY,Private,1043,1231,19325,22690,44408,77900,91,1060,1320,22,29,www.houghton.edu
+460,Hamline University,Saint Paul,MN,Private,2346,3734,21103,26309,52178,90400,69,1015,1260,20,26,www.hamline.edu
+461,Ouachita Baptist University,Arkadelphia,AR,Private,1545,1648,18509,17776,37600,80200,71,1020,1260,21,28,www.obu.edu
+462,Ohio Wesleyan University,Delaware,OH,Private,1560,1712,25194,31028,60350,99200,71,,,,,www.owu.edu
+463,Birmingham-Southern College,Birmingham,AL,Private,1283,1325,22853,26594,52414,88300,62,1030,1260,23,29,www.bsc.edu
+464,Berea College,Berea,KY,Private,1670,1710,1298,33422,35394,71600,35,970,1200,22,27,www.berea.edu
+465,Roanoke College,Salem,VA,Private,2035,2087,27435,26726,59327,85100,67,1040,1230,22,27,roanoke.edu
+466,"University of Colorado, Denver",Denver,CO,Public,19806,24839,14941,6251,44114,95600,65,1060,1280,21,27,www.cu.edu
+467,Saint Vincent College,Latrobe,PA,Private,1720,1865,20909,25507,48879,88300,62,1020,1210,20,26,www.stvincent.edu
+468,Spelman College,Atlanta,GA,Private,2137,2166,36740,13647,51642,85400,40,1070,1215,22,26,www.spelman.edu
+469,"California State University, Sacramento",Sacramento,CA,Public,30445,31255,9733,8984,37622,101100,68,940,1140,17,23,www.csus.edu
+470,Wittenberg University,Springfield,OH,Private,1884,2053,24263,26135,52056,105400,72,,,,,www.wittenberg.edu
+471,South Dakota State University,Brookings,SD,Public,12516,13103,23362,4201,26052,91900,91,980,1260,20,26,www.sdstate.edu
+472,Coe College,Cedar Rapids,IA,Private,1394,1476,20767,31543,55240,86900,56,1073,1326,22,28,www.coe.edu
+473,East Carolina University,Greenville,NC,Public,25207,29131,15415,8225,38277,85400,79,1030,1180,20,24,www.ecu.edu
+474,"California State University, Northridge",Northridge,CA,Public,37184,41319,5703,9782,34007,97300,58,910,1120,17,22,www.csun.edu
+475,University of Alabama in Huntsville,Huntsville,AL,Public,7519,9101,19986,9587,36881,103900,81,1080,1330,25,31,www.uah.edu
+476,Mercer University,Macon,GA,Private,5057,8653,21044,28528,51293,85100,73,1170,1340,25,30,www.mercer.edu
+477,Oklahoma City University,Oklahoma City,OK,Private,1983,2845,26838,18588,45408,87900,72,1110,1280,23,28,www.okcu.edu
+478,Rider University,Lawrenceville,NJ,Private,4371,5073,29086,25766,59700,99000,67,990,1190,19,26,www.rider.edu
+479,Loyola University New Orleans,New Orleans,LA,Private,2766,3759,22766,27972,55402,88600,69,1080,1270,22,28,www.loyno.edu
+480,Nova Southeastern University,Fort-Lauderdale-Davie,FL,Private,4840,20793,26606,19075,49149,89800,58,1080,1280,23,28,www.nova.edu
+481,Grand Valley State University,Allendale,MI,Public,24282,25049,16975,6374,29314,82100,81,1050,1230,21,26,www.gvsu.edu
+482,Florida Atlantic University,Boca Raton,FL,Public,30208,31454,10466,8635,35804,91200,60,1060,1220,21,26,www.fau.edu
+483,Northwestern College (IA),Orange City,IA,Private,1131,1243,23064,19343,43650,82400,68,995,1235,21,27,www.nwciowa.edu
+484,Pacific University (OR),Forest Grove,OR,Private,1995,3893,29902,26103,57488,94000,84,1070,1260,22,27,www.pacificu.edu
+485,"University of North Carolina, Charlotte",Charlotte,NC,Public,26758,29317,16286,7385,37081,92600,66,1110,1270,22,26,www.uncc.edu
+486,Tennessee Technological University,Cookeville,TN,Public,10215,10504,14813,9050,42377,95100,64,1010,1250,21,28,www.tntech.edu
+487,Ball State University,Muncie,IN,Public,19231,22513,15187,10658,40448,83700,62,1080,1240,20,24,cms.bsu.edu
+488,Elmhurst College,Elmhurst,IL,Private,3122,3481,22443,21852,50000,88500,71,985,1210,20,26,https://www.elmhurst.edu
+489,Touro College,New York,NY,Private,8622,11908,23539,6815,35111,103100,74,,,,,www.touro.edu
+490,"CUNY, John Jay College of Criminal Justice",New York,NY,Public,14834,15583,3843,9007,41261,84800,39,980,1130,,,www.jjay.cuny.edu
+491,"CUNY, Lehman College",New York,NY,Public,14130,15231,1886,10685,34532,83500,35,970,1100,,,www.lehman.cuny.edu
+492,"California State University, East Bay",Hayward,CA,Public,14691,16538,11566,9402,36990,103500,74,,,,,www.csueastbay.edu
+493,University of South Dakota,Vermillion,SD,Public,9416,10261,17344,5145,25521,87900,87,1010,1230,20,25,www.usd.edu
+494,"University of North Carolina, Asheville",Asheville,NC,Public,3852,4429,12763,8060,36638,76100,80,1080,1260,22,28,www.unca.edu
+495,Ashland University,Ashland,OH,Private,6471,6781,20221,12432,33954,80000,74,965,1180,20,25,www.ashland.edu
+496,Simpson College (IA),Indianola,IA,Private,1479,1695,22005,25683,50180,88600,84,1070,1220,21,27,simpson.edu
+497,"University of Missouri, Saint Louis",St. Louis,MO,Public,16715,17095,9930,12471,40607,87500,76,1065,1225,22,27,www.umsl.edu
+498,Florida Southern College,Lakeland,FL,Private,2759,3055,24679,21189,49900,82500,51,1070,1250,24,29,https://www.flsouthern.edu
+499,"California State University, Los Angeles",Los Angeles,CA,Public,24862,28531,3792,9553,36726,93800,46,890,1080,15,20,www.calstatela.edu
+500,"California State University, San Bernardino",San Bernardino,CA,Public,19244,20692,8519,9287,36127,87500,57,910,1090,16,21,www.csusb.edu
+501,"University of Texas, Arlington",Arlington,TX,Public,42966,46497,13200,8484,39860,99500,71,1060,1270,20,27,www.uta.edu
+502,"University of Northwestern, St. Paul",Saint Paul,MN,Private,3521,3702,23249,17134,43404,,93,970,1235,21,27,www.nwc.edu
+503,Lawrence Technological University,Southfield,MI,Private,2268,3069,27331,17291,47482,108400,60,950,1330,21,28,https://www.ltu.edu
+504,Mississippi College,Clinton,MS,Private,3513,5036,16693,13649,32385,79500,39,1070,1290,22,29,www.mc.edu
+505,University of North Georgia,Dahlonega,GA,Public,18782,20811,9854,5483,28094,85600,78,910,1130,20,25,www.ung.edu
+506,Webster University,St. Louis,MO,Private,3732,12736,22937,17927,44962,83500,54,1040,1253,21,26,www.webster.edu
+507,University of North Texas,Denton,TX,Public,35099,38276,13832,10638,33908,90100,72,1060,1260,21,27,www.unt.edu
+508,Texas State University,San Marcos,TX,Public,37449,38666,15545,8129,34245,90600,73,1020,1200,20,26,www.txstate.edu
+509,University of Maine,Orono,ME,Public,10304,11240,17074,8544,43618,95000,92,1050,1250,22,27,www.umaine.edu
+510,Central College,Pella,IA,Private,1237,1433,22558,26389,50547,88800,70,950,1220,21,26,www.central.edu
+511,Christian Brothers University,Memphis,TN,Private,1919,2157,9468,23780,44430,96500,53,,,21,27,www.cbu.edu/admissions
+512,Manhattanville College,Purchase,NY,Private,1802,2690,21923,26213,54780,97500,82,,,,,www.mville.edu
+513,Georgia State University,Atlanta,GA,Public,29773,32816,15506,10090,40873,90800,70,1040,1220,19,26,www.gsu.edu
+514,William Jewell College,Liberty,MO,Private,933,1082,21134,25621,47928,94500,48,990,1240,23,28,www.jewell.edu/home
+515,Northern Arizona University,Flagstaff,AZ,Public,29609,31051,14789,10044,40705,90000,81,,,,,nau.edu
+516,Westminster College (PA),New Wilmington,PA,Private,1263,1289,21618,25476,49546,87700,72,990,1220,20,27,www.westminster.edu
+517,Missouri State University,Springfield,MO,Public,22856,23697,15855,5480,28502,86800,84,1020,1245,21,26,www.missouristate.edu
+518,"University of Nebraska, Omaha",Omaha,NE,Public,14610,15731,13173,6485,34522,89500,87,840,1102,19,26,www.unomaha.edu
+519,Florida Gulf Coast University,Fort Myers,FL,Public,14965,15317,15376,4726,39434,80000,64,1060,1210,21,25,www.fgcu.edu
+520,Meredith College,Raleigh,NC,Private,1789,1980,24545,21258,49324,77100,69,1000,1195,20,25,www.meredith.edu
+521,College of Idaho,Caldwell,ID,Private,954,999,21433,18125,41347,82100,76,,,,,www.collegeofidaho.edu
+522,Carroll University,Waukesha,WI,Private,3048,3452,22736,18551,44150,86500,71,975,1210,21,26,www.carrollu.edu
+523,Old Dominion University,Norfolk,VA,Public,22386,24375,15368,7270,43444,89900,86,980,1200,18,25,odu.edu
+524,Mount Saint Mary's University (CA),Los Angeles,CA,Private,3100,3226,28274,23270,59392,97500,81,920,1120,16,21,www.msmc.la.edu/index.asp
+525,Andrews University,Berrien Springs,MI,Private,2250,3300,21460,16809,39714,85000,58,1040,1320,21,29,www.andrews.edu
+526,Lynn University,Boca Raton,FL,Private,2245,3010,35077,14306,55923,85000,85,,,,,www.lynn.edu
+527,Baldwin Wallace University,Berea,OH,Private,3577,3791,23729,19781,46004,82800,78,,,,,www.bw.edu
+528,Otterbein University,Westerville,OH,Private,2608,2936,24287,20110,46390,85600,76,1040,1305,21,27,www.otterbein.edu
+529,University of Massachusetts Boston,Boston,MA,Public,15848,16415,12412,11342,46941,95400,75,1040,1220,21,26,www.umb.edu
+530,Queens University of Charlotte,Charlotte,NC,Private,1906,2507,23348,22152,48776,86600,79,1010,1198,21,26,www.queens.edu
+531,"Minnesota State University, Mankato",Mankato,MN,Public,14712,15273,15615,5108,28278,90900,61,,,20,24,www.mnsu.edu
+532,Portland State University,Portland,OR,Public,26693,27483,13578,6772,43989,90500,92,990,1220,19,25,www.pdx.edu
+533,Westminster College (MO),Fulton,MO,Private,767,972,20402,18133,40510,,90,1015,1175,21,26,www.westminster-mo.edu
+534,University of Northern Colorado,Greeley,CO,Public,11278,13399,20367,7708,35653,87100,89,1000,1240,19,25,www.unco.edu
+535,Ripon College,Ripon,WI,Private,756,813,18592,28951,52341,89600,68,1040,1260,20,26,www.ripon.edu
+536,Marietta College,Marietta,OH,Private,1145,1220,24022,22617,50104,94300,67,960,1215,20,25,www.marietta.edu
+537,Sam Houston State University,Huntsville,TX,Public,19784,20938,13560,8976,31784,89900,74,1000,1140,19,23,shsu.edu
+538,St. Mary's University (TX),San Antonio,TX,Private,2432,3649,17522,22029,44490,95300,80,1040,1230,20,26,https://www.stmarytx.edu
+539,Illinois College,Jacksonville,IL,Private,959,987,16501,24557,42830,81700,55,,,,,www.ic.edu
+540,Central Washington University,Ellensburg,WA,Public,12901,15944,14382,7096,36708,93200,86,910,1100,17,24,www.cwu.edu
+541,Doane University,Crete,NE,Private,1069,1072,24449,20109,46710,85300,65,,,20,25,www.doane.edu
+542,University of Hartford,West Hartford,CT,Private,6259,6561,30440,21526,54662,101600,81,1030,1230,21,27,www.hartford.edu
+543,Hood College,Frederick,MD,Private,1214,2112,23416,26864,54840,82600,81,,,,,www.hood.edu
+544,University of Colorado Colorado Springs,Colorado Springs,CO,Public,12932,14122,15872,5682,36298,90900,93,1040,1250,21,26,www.uccs.edu
+545,St. Catherine University,St. Paul,MN,Private,3747,4724,19935,26729,50716,82600,70,1040,1310,20,26,www.stkate.edu
+546,Fairleigh Dickinson University,Teaneck,NJ,Private,6168,7846,16136,31560,56618,93000,88,1002,1200,20,25,view.fdu.edu/default.aspx?id=320
+547,Millersville University,Millersville,PA,Public,7720,7915,22032,5668,38569,84700,79,970,1160,,,https://www.millersville.edu
+548,"University of Nevada, Las Vegas",Las Vegas,NV,Public,27561,30471,10555,4998,37639,90400,81,1030,1240,19,24,www.unlv.edu
+549,Wisconsin Lutheran College,Milwaukee,WI,Private,1114,1198,20073,18027,41996,82500,90,1008,1278,20,26,www.wlc.edu
+550,Randolph College,Lynchburg,VA,Private,684,691,25614,26264,54225,,86,950,1190,19,25,www.randolphcollege.edu
+551,"CUNY, College of Staten Island",Staten Island,NY,Public,13594,15245,5687,7929,39124,94600,,,,,,www.csi.cuny.edu
+552,Vanguard University,Costa Mesa,CA,Private,2116,2394,21374,22396,46770,85600,47,930,1120,18,24,www.vanguard.edu
+553,Immaculata University,Immaculata,PA,Private,1906,2481,31971,21301,45960,88100,83,950,1170,17,23,www.immaculata.edu
+554,Lycoming College,Williamsport,PA,Private,1217,1404,19019,31000,53870,91000,64,988,1200,21,25,www.lycoming.edu
+555,"University of Louisiana, Lafayette",Lafayette,LA,Public,17297,17556,12768,7899,38503,92500,51,820,1180,21,26,www.louisiana.edu
+556,Huntington University,Huntington,IN,Private,1146,1321,21892,17623,37296,,81,950,1170,20,24,huntington.edu
+557,Hollins University,Roanoke,VA,Private,674,790,19456,32492,54205,78000,48,1110,1295,23,28,www.hollins.edu/index.shtml
+558,Benedictine University,Lisle,IL,Private,3731,5100,23827,18272,48016,89400,62,916,1100,19,25,www.ben.edu
+559,"University of North Carolina, Greensboro",Greensboro,NC,Public,18091,19922,12226,9017,35818,76600,78,1030,1180,20,25,www.uncg.edu
+560,King's College (PA),Wilkes-Barre,PA,Private,2244,2469,25898,21560,52030,86500,71,,,,,www.kings.edu
+561,Hastings College,Hastings,NE,Private,1202,1227,21703,19652,43527,87100,68,970,1150,20,25,www.hastings.edu
+562,Georgia Southern University,Statesboro,GA,Public,20314,20418,16548,6648,33646,88000,68,1100,1230,22,26,www.georgiasouthern.edu
+563,Southern Illinois University Edwardsville,Edwardsville,IL,Public,13294,13796,15574,6756,37774,90100,90,980,1225,20,26,www.siue.edu
+564,Western Michigan University,Kalamazoo,MI,Public,19990,22869,16934,7894,27895,92200,82,960,1190,20,26,wmich.edu
+565,Asbury University,Wilmore,KY,Private,1772,1990,28095,15833,40575,70800,70,980,1280,21,28,www.asbury.edu
+566,Oakland University,Rochester,MI,Public,19321,19333,12779,9476,36581,93300,84,1010,1230,21,27,www.oakland.edu
+567,University of New Mexico,Albuquerque,NM,Public,23124,26221,14315,6847,36736,94000,67,930,1170,19,25,www.unm.edu
+568,Bloomsburg University of Pennsylvania,Bloomsburg,PA,Public,9260,9729,19725,5720,35750,92200,73,970,1150,19,24,www.bloomu.edu
+569,Boise State University,Boise,ID,Public,23634,24121,13796,8258,37248,86400,84,940,1160,21,26,www.boisestate.edu
+570,College of the Atlantic,Bar Harbor,ME,Private,354,390,20234,37756,54969,,68,,,,,www.coa.edu/index.htm
+571,"University of Texas, Rio Grande Valley",Edinburg,TX,Public,27807,27809,3901,9398,29995,81200,80,950,1120,17,22,www.utrgv.edu
+572,Maryville College,Maryville,TN,Private,1181,1247,18146,27778,49266,75300,49,930,1150,20,27,www.maryvillecollege.edu
+573,Oral Roberts University,Tulsa,OK,Private,3781,3919,19035,19393,41054,85100,93,990,1210,20,26,www.oru.edu
+574,"University of Alaska, Fairbanks",Fairbanks,AK,Public,7664,11866,9988,7457,32563,101800,77,1030,1270,17,25,www.alaska.edu
+575,Randolph-Macon College,Ashland,VA,Private,1453,1491,25621,25338,54180,,62,1050,1233,21,27,www.rmc.edu
+576,Montana Tech of the University of Montana,Butte,MT,Public,1909,2155,12993,6405,35755,112600,92,1115,1300,22,27,www.mtech.edu
+577,"St. John's College, Santa Fe",Santa Fe,NM,Private,354,386,20605,31845,65456,,63,1190,1350,23,32,www.sjca.edu
+578,"Indiana University-Purdue University, Indianapolis",Indianapolis,IN,Public,25516,29791,12021,11347,43022,88200,80,995,1190,19,26,www.iupui.edu
+579,Hartwick College,Oneonta,NY,Private,1201,1435,26136,29494,57627,99200,89,920,1100,21,26,www.hartwick.edu
+580,Alfred University,Alfred,NY,Private,2017,2354,22286,20676,43686,92000,63,990,1210,21,26,www.alfred.edu
+581,Oklahoma Baptist University,Shawnee,OK,Private,2056,2093,16267,18708,39840,76600,65,960,1150,20,26,www.okbu.edu
+582,Alma College,Alma,MI,Private,1426,1484,21836,28481,52475,89900,64,1030,1230,20,27,www.alma.edu
+583,Saint Cloud State University,St. Cloud,MN,Public,14975,15955,14633,5216,28920,91600,86,958,1188,18,24,www.stcloudstate.edu
+584,Capital University,Columbus,OH,Private,3120,3384,20866,25272,48674,85100,69,1075,1245,22,27,www.capital.edu
+585,Liberty University,Lynchburg,VA,Private,60084,75044,27573,10400,38364,73600,30,1040,1240,21,27,www.liberty.edu
+586,Russell Sage College,Troy,NY,Private,1560,2525,19696,21706,45397,81100,56,,,,,www.sage.edu/rsc
+587,Converse College,Spartanburg,SC,Private,906,1478,21556,12497,34190,71000,71,970,1160,20,26,www.converse.edu
+588,Oglethorpe University,Atlanta,GA,Private,1250,1589,22018,27532,53490,91400,58,1110,1310,22,28,www.oglethorpe.edu
+589,Central Michigan University,Mount Pleasant,MI,Public,20786,23257,15531,8624,35236,83600,68,1010,1200,20,27,www.cmich.edu
+590,"University of Wisconsin, Milwaukee",Milwaukee,WI,Public,24337,24988,16650,5647,35510,90300,72,,,20,25,www.uwm.edu
+591,Bowling Green State University,Bowling Green,OH,Public,16592,17357,19128,6542,32105,87500,73,990,1230,19,24,www.bgsu.edu
+592,Texas Woman's University,Denton,TX,Public,12020,15473,9493,8426,29683,83400,86,890,1080,17,23,www.twu.edu
+593,University of Mount Union,Alliance,OH,Private,2195,2257,22786,17954,42725,88500,81,980,1200,20,25,www.mountunion.edu
+594,Clarke University,Dubuque,IA,Private,845,1039,24334,17474,45900,80200,63,970,1148,20,25,www.clarke.edu
+595,Carthage College,Kenosha,WI,Private,2860,2940,26532,26379,57250,85400,68,1040,1300,21,27,www.carthage.edu
+596,Centenary College of Louisiana,Shreveport,LA,Private,501,588,24704,26633,53000,88400,62,1030,1210,22,28,www.centenary.edu
+597,Wichita State University,Wichita,KS,Public,12704,15075,14113,5793,32716,87300,94,1000,1275,20,27,www.wichita.edu
+598,Aurora University,Aurora,IL,Private,4248,5833,17220,15909,37028,83400,87,950,1130,19,23,www.aurora.edu
+599,Georgetown College (KY),Georgetown,KY,Private,1051,1767,20769,29107,50086,81900,67,,,20,26,https://www.georgetowncollege.edu
+600,Western Kentucky University,Bowling Green,KY,Public,20257,21431,11850,7295,36806,83100,95,970,1180,19,27,www.wku.edu
+601,Wayne State University,Detroit,MI,Public,20314,27064,12970,9682,40763,91700,67,1000,1210,21,28,wayne.edu
+602,Western Colorado University,Gunnison,CO,Public,2814,3343,17229,6195,35144,81500,86,990,1200,20,25,www.western.edu
+603,Rhode Island College,Providence,RI,Public,8171,8318,10366,6877,35465,83500,74,880,1090,15,22,www.ric.edu
+604,Weber State University,Ogden,UT,Public,27949,32248,12061,4579,29912,94000,,,,,,www.weber.edu
+605,Salem College,Winston-Salem,NC,Private,968,984,17669,25354,46080,73700,57,1020,1300,23,29,www.salem.edu
+606,"University of Texas, El Paso",El Paso,TX,Public,24386,25078,8135,9183,36955,92100,100,920,1130,16,22,www.utep.edu
+607,Spring Hill College,Mobile,AL,Private,1442,1485,21108,29825,55168,,46,1025,1185,21,26,www.shc.edu
+608,Sweet Briar College,Sweet Briar,VA,Private,323,406,21291,30802,54155,79700,93,993,1180,20,28,sbc.edu
+609,University of Toledo,Toledo,OH,Public,18077,20579,13832,8050,34375,92500,94,1020,1240,20,26,www.utoledo.edu
+610,University of Montana,Missoula,MT,Public,11671,11865,15006,5404,38356,87800,93,1060,1270,21,26,www.umt.edu
+611,Southeastern Louisiana University,Hammond,LA,Public,14285,16512,12739,7250,34155,83900,88,,,19,24,www.selu.edu
+612,University of South Alabama,Mobile,AL,Public,12848,15569,14237,6927,28210,86400,82,1010,1200,20,26,www.southalabama.edu
+613,Murray State University,Murray,KY,Public,9916,10012,11497,8426,37870,79900,87,980,1190,21,27,www.murraystate.edu
+614,Anderson University (IN),Anderson,IN,Private,1877,1961,23799,17790,43450,78600,65,910,1110,19,25,anderson.edu
+615,University of West Florida,Pensacola,FL,Public,12449,13040,10729,5222,31895,81700,50,1080,1240,22,27,uwf.edu
+616,University of New Orleans,New Orleans,LA,Public,7964,8082,11135,8151,28568,91600,57,1030,1250,20,25,www.uno.edu
+617,Indiana University of Pennsylvania,Indiana,PA,Public,12003,12431,20940,6772,32461,85900,91,910,1120,17,23,ww.iup.edu
+618,North Greenville University,Tigerville,SC,Private,2356,2565,26450,15812,36000,,61,930,1270,19,28,www.ngu.edu
+619,University of Texas at San Antonio,San Antonio,TX,Public,27880,30768,12745,8177,34484,87500,79,1030,1210,20,25,www.utsa.edu
+620,Millikin University,Decatur,IL,Private,2040,2132,20435,23312,47664,83400,65,1080,1260,19,26,www.millikin.edu/Pages/default.aspx
+621,Northern Illinois University,DeKalb,IL,Public,15429,18045,19786,9482,38314,95500,53,,,19,24,www.niu.edu/index.shtml
+622,Cleveland State University,Cleveland,OH,Public,14594,16371,16582,7096,30825,88600,90,990,1210,19,25,www.csuohio.edu
+623,Humboldt State University,Arcata,CA,Public,8525,8602,14490,9038,36601,89000,82,960,1160,18,24,www.humboldt.edu
+624,Monmouth College,Monmouth,IL,Private,1033,1205,17190,27809,47970,88100,67,900,1090,20,25,www.monmouthcollege.edu
+625,St. Francis College,Brooklyn,NY,Private,2362,2745,9560,15533,44488,93200,63,950,1120,20,24,www.sfc.edu
+626,Elmira College,Elmira,NY,Private,1012,1135,26255,26883,55050,82200,85,,,,,www.elmira.edu
+627,University of Southern Mississippi,Hattiesburg,MS,Public,13606,14478,13178,9292,24883,83900,98,,,19,26,home.usm.edu
+628,Lyon College,Batesville,AR,Private,672,705,18605,18534,39120,,64,1030,1234,22,28,www.lyon.edu
+629,Southern Illinois University Carbondale,Carbondale,IL,Public,13518,14554,17175,10924,42770,90900,76,920,1330,20,26,siu.edu
+630,Kent State University Kent Campus,Kent,OH,Public,27376,28972,18432,7306,34046,83100,88,1040,1220,21,25,www.kent.edu
+631,Middle Tennessee State University,Murfreesboro,TN,Public,21913,23050,12416,8607,40458,81100,59,990,1210,20,25,www.mtsu.edu
+632,Warren Wilson College,Asheville,NC,Private,661,695,25117,19414,49744,74600,79,1140,1285,25,29,www.warren-wilson.edu/external_index.php
+633,Northern Kentucky University,Highland Heights,KY,Public,14141,14456,9131,8295,32136,87400,90,993,1210,20,26,www.nku.edu
+634,Western Illinois University,Macomb,IL,Public,9441,9656,15844,9239,25835,85900,60,,,18,23,www.wiu.edu
+635,"University of Alaska, Anchorage",Anchorage,AK,Public,15733,23824,13378,6207,39902,101000,83,,,,,www.uaa.alaska.edu
+636,Fort Lewis College,Durango,CO,Public,3332,3925,17705,10850,36843,82600,83,1020,1210,20,25,www.fortlewis.edu
+637,Marlboro College,Marlboro,VT,Private,185,390,17636,33054,55625,,97,,,,,www.marlboro.edu
+638,Wright State University,Dayton,OH,Public,14332,15957,16249,6546,32506,87800,97,980,1270,19,25,https://www.wright.edu
+639,Hiram College,Hiram,OH,Private,1200,1221,21474,23318,47757,84100,64,940,1200,18,24,www.hiram.edu
+640,University of Memphis,Memphis,TN,Public,19875,21521,13921,8960,36372,85800,85,1010,1230,19,25,www.mephis.edu
+641,Eastern Kentucky University,Richmond,KY,Public,16155,16612,11892,8234,31978,80700,87,960,1130,20,25,www.eku.edu
+642,Fisk University,Nashville,TN,Private,701,738,28362,9396,37070,83600,45,940,1260,16,22,www.fisk.edu/Home.aspx
+643,Guilford College,Greensboro,NC,Private,1680,2050,23560,22964,50813,75600,91,,,,,www.guilford.edu
+644,Carson-Newman University,Jefferson City,TN,Private,1934,2514,18003,20126,40640,76500,67,940,1150,20,26,www.cn.edu
+645,Morehouse College,Atlanta,GA,Private,2202,2219,34928,17318,48723,98700,74,950,1160,18,23,https://www.morehouse.edu
+646,New Mexico State University,Las Cruces,NM,Public,13379,14432,8625,9582,34720,96700,64,910,1160,18,23,www.nmsu.edu
+647,Indiana State University,Terre Haute,IN,Public,13626,13763,13012,9297,32938,85600,85,900,1110,17,23,www.indstate.edu
+648,Emory &amp; Henry College,Emory,VA,Private,1094,1226,19340,27155,48100,70700,72,988,1170,19,25,www.ehc.edu
+649,Wells College,Aurora,NY,Private,488,516,22828,30207,55180,,80,,,,,www.wells.edu
+650,Catawba College,Salisbury,NC,Private,1336,1463,19807,23662,44921,78100,42,930,1100,18,23,www.catawba.edu
